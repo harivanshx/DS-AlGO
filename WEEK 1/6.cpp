@@ -3,11 +3,10 @@ using namespace std;
 int main(){
 
 
+for(int i=1 ; i<10; i=i+1){
 
-int ram_money=500;
-cout<<"Ram has :"<<ram_money<<endl;
-
-
+    cout<<i*19<<'\n';
+}
 
 
 }
