@@ -14,7 +14,7 @@ int main(){
         }
         // stars
         for(int col=0;col<row+1;col=col+1)
-        cout<<" *"; 
+        cout<<"* "; 
           cout<<endl;
     }
   
